@@ -1,0 +1,5 @@
+.container {
+  flex: 4.5;
+  background-color: rgb(235, 234, 234);
+  margin-left: 20px;
+}
